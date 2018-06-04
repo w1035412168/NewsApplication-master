@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationB
         init();
 
     }
-//修改了三次
+//修改了三次sici
     private void init() {
         fragmentList=new ArrayList<>();
         fragmentList.add(new MainFragment());
