@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationB
         setContentView(R.layout.activity_main);
         initView();
         init();
-//修改三次testttt
+//修改三次tes
     }
 //修改了二次
     private void init() {
