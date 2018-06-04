@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationB
         init();
 
     }
-//修改了wu次，实打实打算 速度，已经好了 那咋没变啊
+//修改了wu次，已经好了 那咋没变啊
 
     private void init() {
         fragmentList=new ArrayList<>();
